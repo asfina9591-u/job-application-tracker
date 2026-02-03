@@ -11,12 +11,6 @@ A modern **React dashboard** to track job applications with **deadlines, follow-
 - 📱 Fully **mobile responsive**
 - 🎨 Clean UI with **gradients & hover animations**
 
-## 🌐 Live Demo
-👉 https://asfina951.github.io/job-application-tracker
-
-## 🎮 Demo
-👉 https://asfina951.github.io/job-application-tracker
-
 ## 🛠 Tech Stack
 - React 18
 - JavaScript (ES6+)
